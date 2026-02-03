@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.9](https://github.com/OkyHp/ResetScore/compare/v1.0.8...v1.0.9) (2026-02-03)
+
+
+### Bug Fixes
+
+* update ([8c360ee](https://github.com/OkyHp/ResetScore/commit/8c360ee13ad870a8f61a1bcf17feb1914c47e95a))
+
 ## [1.0.8](https://github.com/OkyHp/ResetScore/compare/v1.0.7...v1.0.8) (2026-01-05)
 
 
